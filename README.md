@@ -35,7 +35,7 @@ Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem.
 A linear Support Vector Machine was used to efficiently classify the large crowdfunding dataset.
 
 ---
-# 📈 Model Evaluation
+#  Model Evaluation
 
 The models were evaluated using:
 
@@ -81,7 +81,7 @@ The SVM achieved the highest F1-score among all evaluated models and was therefo
 
 ---
 
-# 📊 Model Performance Analysis
+#  Model Performance Analysis
 
 ## SVM
 
@@ -205,10 +205,8 @@ Overall, the project demonstrates the complete process of building, validating, 
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Varsha A**
 
-**B.Sc. Artificial Intelligence & Machine Learning**
-
-**Data Science & Machine Learning Project**
+Varsha A. AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
