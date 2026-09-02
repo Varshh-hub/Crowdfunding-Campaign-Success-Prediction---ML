@@ -209,4 +209,4 @@ Overall, the project demonstrates the complete process of building, validating, 
 
 **Varsha A**
 
-Varsha A. AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
